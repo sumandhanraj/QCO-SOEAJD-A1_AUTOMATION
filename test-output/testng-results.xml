@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-12T18:46:59 IST" name="Default suite" finished-at="2023-09-12T18:47:37 IST" duration-ms="38131">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="CreateOrgWithIndustryUsingGUTest.CreateOrgWithIndustryUsingGU()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" name="CreateOrgWithIndustryUsingGU" class="ContaCt.CreateOrgWithIndustryUsingGUTest"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test started-at="2023-09-12T18:46:59 IST" name="Default test" finished-at="2023-09-12T18:47:37 IST" duration-ms="38131">
+      <class name="ContaCt.CreateOrgWithIndustryUsingGUTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:46:59 IST" name="bsConfig" finished-at="2023-09-12T18:46:59 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:47:00 IST" name="bcConfig" finished-at="2023-09-12T18:47:11 IST" duration-ms="11304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:47:11 IST" name="bmConfig" finished-at="2023-09-12T18:47:18 IST" duration-ms="7448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="CreateOrgWithIndustryUsingGU()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:47:18 IST" name="CreateOrgWithIndustryUsingGU" finished-at="2023-09-12T18:47:35 IST" duration-ms="16378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrgWithIndustryUsingGU -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:47:35 IST" name="amConfig" finished-at="2023-09-12T18:47:37 IST" duration-ms="1947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfif()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:47:37 IST" name="acConfif" finished-at="2023-09-12T18:47:37 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfif -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:ContaCt.CreateOrgWithIndustryUsingGUTest@77fbd92c]" started-at="2023-09-12T18:47:38 IST" name="asConfig" finished-at="2023-09-12T18:47:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- ContaCt.CreateOrgWithIndustryUsingGUTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
